@@ -7,7 +7,7 @@
       "binaryDir": "${sourceDir}/Output/Build/${presetName}",
       "installDir": "${sourceDir}/Output/Install/${presetName}",
       "cacheVariables": {
-        "BUILD_SHARED_LIBS": "ON",
+        "BUILD_SHARED_LIBS": "OFF",
         "CXX_STANDARD": "11",
         "C_STANDARD": "11"
       }
