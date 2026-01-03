@@ -1,0 +1,6 @@
+---
+BasedOnStyle: Chromium
+ColumnLimit: 100
+InsertBraces: true
+AllowShortEnumsOnASingleLine: false
+SortIncludes: false
